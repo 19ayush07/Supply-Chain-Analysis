@@ -17,7 +17,7 @@ More than half of all orders (**54.71%**) in this dataset arrived later than the
 - [Results](#results)
 - [Full Report](#full-report)
 - [Future Work](#future-work)
-- [Author & Contact](#author--contact)
+
 
 ## Overview
 
