@@ -245,6 +245,4 @@ The analysis surfaces a clear and urgent picture: a global e-commerce operation 
 - Extend root-cause driver analysis to every region, not just the top two
 - Investigate the "4-day delay = higher profit" anomaly further to confirm or rule out a causal relationship
 
-## Author & Contact
 
-*Add your name, email, and links (LinkedIn, GitHub, portfolio site) here.*
